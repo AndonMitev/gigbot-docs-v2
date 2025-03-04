@@ -1,9 +1,9 @@
-root: ./docs
+# root: ./docs
 
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+# structure:
+#   readme: README.md
+#   summary: SUMMARY.md
 
-redirects:
-  api/claim: endpoints/claim.md
-  api/gigs: endpoints/gigs.md
+# redirects:
+#   api/claim: endpoints/claim.md
+#   api/gigs: endpoints/gigs.md
