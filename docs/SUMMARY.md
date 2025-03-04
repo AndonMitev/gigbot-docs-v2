@@ -20,3 +20,8 @@
   - [Setup Guide](integrations/eliza-plugin.md#setup-guide)
   - [Configuration](integrations/eliza-plugin.md#configuration)
   - [Usage Examples](integrations/eliza-plugin.md#usage-examples)
+
+### Social
+
+- [Farcaster](https://warpcast.com/gigbot.eth)
+- [Twitter](https://x.com/gigbot_)
