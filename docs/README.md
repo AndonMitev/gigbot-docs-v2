@@ -1,6 +1,6 @@
 # GigBot API Documentation Testish
 
-Welcome to the GigBot MXM API documentation. This documentation provides detailed information about the GigBot API endpoints, their usage, and examples.
+Welcome to the GigBot MXM wowz API documentation. This documentation provides detailed information about the GigBot API endpoints, their usage, and examples.
 
 ## Overview
 
