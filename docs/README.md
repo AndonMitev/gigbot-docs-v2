@@ -4,11 +4,11 @@
   <div style="flex: 1;">
     GigBot is a powerful platform that enables Web3 communities to create, manage, and reward social engagement through automated tasks. Our platform streamlines community management and token distribution while ensuring transparent and efficient reward systems.
   </div>
-  <div style="margin-left: 20px;">
+  <!-- <div style="margin-left: 20px;">
     <a href="https://gigbot.xyz">
       <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099527/gigbot-logo_jlwocq.png" alt="GigBot Logo" width="20"/>
     </a>
-  </div>
+  </div> -->
 </div>
 
 ## Overview
