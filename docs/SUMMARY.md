@@ -4,6 +4,7 @@
 
 ## API Reference
 
+- [Interactive API (Swagger)](api/swagger.md)
 - API
   - Gigs
     - [Create Gig](api/gigs-create.md)
@@ -12,7 +13,3 @@
   - Claims
     - [Get Claimable Tokens](api/claim.md#get-claimable-tokens)
     - [Claim Tokens](api/claim.md#claim-tokens)
-
-### Test
-
-- [Test](api/test.md)
