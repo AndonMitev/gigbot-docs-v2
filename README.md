@@ -1,6 +1,6 @@
 # GigBot API Documentation
 
-Welcome to the GigBot API documentation. This guide will help you understand and integrate with the GigBot API to manage your Web3 community engagement and rewards system.
+Welcome to ASDASD the GigBot API documentation. This guide will help you understand and integrate with the GigBot API to manage your Web3 community engagement and rewards system.
 
 ## Quick Links
 
