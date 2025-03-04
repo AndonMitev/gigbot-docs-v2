@@ -18,3 +18,8 @@
 ### Integrations
 
 - [ElizaOS Plugin](integrations/eliza-plugin.md)
+
+### Social
+
+- [Farcaster](https://warpcast.com/gigbot.eth)
+- [Twitter](https://x.com/gigbot_)

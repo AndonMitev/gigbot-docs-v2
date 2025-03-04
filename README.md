@@ -1,6 +1,15 @@
 # Introduction
 
-GigBot is a powerful platform that enables Web3 communities to create, manage, and reward social engagement through automated tasks. Our platform streamlines community management and token distribution while ensuring transparent and efficient reward systems.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    GigBot is a powerful platform that enables Web3 communities to create, manage, and reward social engagement through automated tasks. Our platform streamlines community management and token distribution while ensuring transparent and efficient reward systems.
+  </div>
+  <div style="margin-left: 20px;">
+    <a href="https://gigbot.xyz">
+      <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099527/gigbot-logo_jlwocq.png" alt="GigBot Logo" width="100"/>
+    </a>
+  </div>
+</div>
 
 ## Overview
 
@@ -10,21 +19,6 @@ With GigBot, communities can:
 - Track user engagement across platforms
 - Automate reward distribution
 - Streamline community contributions
-
-<div align="center" style="margin: 40px 0;">
-  <a href="https://gigbot.xyz">
-    <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099527/gigbot-logo_jlwocq.png" alt="GigBot Logo" width="150"/>
-  </a>
-
-  <div style="margin: 20px 0; padding: 8px 16px; background-color: #5C5C8A; border-radius: 50px; display: inline-block;">
-    <a href="https://warpcast.com/gigbot.eth" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099629/farcaster-icon_qb1bkc.svg" alt="Farcaster" width="24" style="vertical-align: middle;"/>
-    </a>
-    <a href="https://x.com/gigbot_" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099645/twitter-icon_r1kcs4.svg" alt="Twitter" width="24" style="vertical-align: middle; background-color: #5C5C8A; border-radius: 50%;"/>
-    </a>
-  </div>
-</div>
 
 ## Getting Started
 
@@ -63,6 +57,8 @@ The API uses conventional HTTP response codes:
 - 🌐 [Website](https://gigbot.xyz)
 - 📚 [API Documentation](https://www.gigbot.xyz/api-doc)
 - 🤖 [ElizaOS Plugin](https://github.com/PaymagicXYZ/plugin-gigbot)
+- 🦤 [Farcaster](https://warpcast.com/gigbot.eth)
+- 𝕏 [Twitter](https://x.com/gigbot_)
 
 <div align="center" style="margin: 60px 0 40px 0;">
   <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099471/splash_ay2o5j.gif" alt="GigBot Splash" width="600" style="border-radius: 8px;"/>
