@@ -15,3 +15,7 @@
 - [Claim Tokens](api/claim.md)
   - [Get Claimable Tokens](api/claim.md#get-claimable-tokens)
   - [Claim Tokens](api/claim.md#claim-tokens)
+
+### Test
+
+- [Test](api/test.md)
