@@ -1,0 +1,12 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.gigbot.xyz/sitemap.xml
+
+# Disallow API documentation during beta (if needed)
+# Disallow: /api-doc/beta/
+
+# Rate limiting for crawlers
+Crawl-delay: 10 
