@@ -14,21 +14,16 @@ The Swagger UI provides:
 - Interactive endpoint testing
 - Request/response examples
 - Schema definitions
-- Authentication information
 - Real-time API responses
 
 ## How to Use
 
 1. Visit the [Swagger documentation](https://www.gigbot.xyz/api-doc)
-2. Authenticate using your API key:
-   - Click the "Authorize" button
-   - Enter your API key
-   - Click "Authorize"
-3. Explore available endpoints:
+2. Explore available endpoints:
    - Expand endpoint sections
    - View request/response schemas
    - Try out endpoints directly
-4. Test endpoints:
+3. Test endpoints:
    - Fill in required parameters
    - Click "Execute"
    - View responses
@@ -43,20 +38,11 @@ The Swagger UI provides:
   - Get claimable tokens
   - Claim tokens
 
-## Authentication
-
-All API endpoints require authentication. In the Swagger UI:
-
-1. Click "Authorize" button
-2. Enter your API key in the format: `Bearer YOUR_API_KEY`
-3. Click "Authorize"
-
 ## Response Codes
 
 - 200: Successful operation
 - 201: Resource created
 - 400: Bad request
-- 401: Unauthorized
 - 404: Not found
 - 500: Server error
 

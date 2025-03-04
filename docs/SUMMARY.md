@@ -13,3 +13,10 @@
   - Claims
     - [Get Claimable Tokens](api/claim.md#get-claimable-tokens)
     - [Claim Tokens](api/claim.md#claim-tokens)
+
+## Integration
+
+- [ElizaOS Plugin](integrations/eliza-plugin.md)
+  - [Setup Guide](integrations/eliza-plugin.md#setup-guide)
+  - [Configuration](integrations/eliza-plugin.md#configuration)
+  - [Usage Examples](integrations/eliza-plugin.md#usage-examples)
