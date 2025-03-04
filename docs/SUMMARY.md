@@ -23,5 +23,5 @@
 
 ### Social
 
-- [Farcaster](https://warpcast.com/gigbot.eth)
-- [Twitter](https://x.com/gigbot_)
+- <img src="https://res.cloudinary.com/duhvlptwp/image/upload/v1741099629/farcaster-icon_qb1bkc.svg" alt="Farcaster" width="16" style="vertical-align: middle; margin: 0 4px;"/> [Farcaster](https://warpcast.com/gigbot.eth)
+- 𝕏 [Twitter](https://x.com/gigbot_)
